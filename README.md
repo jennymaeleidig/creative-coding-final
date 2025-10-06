@@ -4,8 +4,7 @@ Built with Processing 4 & GLSL
 
 Assets re-created by hand
 
-Demo:
-<iframe width="1470" height="583" src="https://www.youtube.com/embed/54aqbbIRAlw" title="夢の砂漠 (dream desert)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Demo here](https://youtu.be/54aqbbIRAlw)
 
 Requires Java 17
 
