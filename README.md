@@ -9,3 +9,5 @@ Assets re-created by hand
 Requires [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) (I think)
 
 Further details and process can be found in the main `sketch.pde` file
+
+To Build / Run, you will need to supply the audio files.
