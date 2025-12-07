@@ -6,7 +6,7 @@ Assets re-created by hand
 
 [Demo here](https://youtu.be/54aqbbIRAlw)
 
-Requires [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) (I think)
+Requires [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) (~~I think~~ I KNOW)
 
 Further details and process can be found in the main `sketch.pde` file
 
